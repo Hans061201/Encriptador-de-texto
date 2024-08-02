@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Encriptador de texto</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="header"></header>
+    <main class="encriptador">
+      <section class="encriptador__contenido">
+        <textarea
+          class="encriptador__text_area"
+          placeholder="Ingrese el texto aqui"
+          id="textArea"
+        ></textarea>
+        <div class="encriptador__contenido__aviso">
+          <img
+            clas="imagen__aviso"
+            src="IMG/Group.png"
+            alt="imagen de un signo de exclamacion"
+          />
+          <strong class="text__aviso"
+            >Solo letras minúsculas y sin acentos</strong
+          >
+        </div>
+        <div class="encriptador__botones">
+          <button
+            class="encriptador__boton__1 encriptador__boton"
+            onclick="encriptar();"
+            style="cursor: pointer"
+          >
+            Encriptar
+          </button>
+          <button
+            class="encriptador__boton__2 encriptador__boton"
+            style="cursor: pointer"
+            onclick="desencriptar();"
+          >
+            Desencriptar
+          </button>
+        </div>
+      </section>
+      <div class="texto__traducido" id="texto__traducido">
+        <img
+          src="IMG/Muñeco.png"
+          alt="muñeco observando"
+          class="texto__traducido__img"
+        />
+        <h2 class="texto__traducido__titulo">Ningún mensaje fue encontrado</h2>
+        <p class="texto__traducido__text">
+          Ingresa el texto que deseas encriptar o desencriptar
+        </p>
+      </div>
+      <div
+        id="texto__encriptado"
+        class="texto__encriptado__contenido"
+        style="display: none"
+      >
+        <textarea
+          class="texto__encriptado__texto"
+          id="textoEncriptado"
+        ></textarea>
+        <button
+          class="encriptador__boton__3 encriptador__boton"
+          style="cursor: pointer"
+          id="botonCopiar"
+          onclick="copiar();"
+        >
+          Copiar
+        </button>
+      </div>
+    </main>
+    <footer class="footer">
+      <p class="footer__texto">
+        Developed by Hans Ventura and created: July 7, 2024
+      </p>
+    </footer>
+    <script src="app.js"></script>
+  </body>
+</html>
