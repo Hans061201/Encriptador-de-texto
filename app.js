@@ -93,7 +93,6 @@ function copiar() {
 
   const textToCopy = texto.textContent;
 
-  // Método alternativo usando document.execCommand('copy')
   const textArea = document.createElement("textarea");
   textArea.value = textToCopy;
   document.body.appendChild(textArea);
@@ -112,5 +111,5 @@ function copiar() {
   texto.select();
   setTimeout(() => {
     botonCopiar.textContent = "Copiar";
-  }, 2000); // Revertir el texto del botón después de 2 segundos
+  }, 2000);
 }

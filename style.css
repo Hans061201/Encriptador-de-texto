@@ -194,9 +194,9 @@ body {
   border: 2px solid var(--primary-color);
   margin-top: auto;
   align-self: center;
-  position: absolute;
-  top: 91%;
-  right: 40px;
+  position: relative;
+  top: 3%;
+  right: auto;
 }
 .encriptador__boton:hover {
   background-color: #65747d;
