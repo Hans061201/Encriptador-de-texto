@@ -29,9 +29,11 @@ Este proyecto fue creado para permitirle al usuario encriptar o desencriptar tex
   
   ```
   Ejemplo:
+  
   alura => ailufatrai
   ailufatrai => alura
-  
+  ```
+  ```
   Cuando quiera encriptar un texto que contengan alguna mayúscula le aparece lo siguiente:
 
   Hola como Estan  =>  No introducir caracteres especiales o mayusculas, por favor.
@@ -42,7 +44,6 @@ Este proyecto fue creado para permitirle al usuario encriptar o desencriptar tex
 
   Tendrá ese mismo resultado cuando presione el botón desencriptar.
   ```
-
 
 ## 🎁Extras
 
