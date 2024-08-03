@@ -10,7 +10,7 @@
    </p>
    <h2>Características Principasles </h2>
    <ul>
-     <li><storng font="bold"> Encriptar: </storng></li>
+     <li> **Encriptar:** </li>
      <li><storng> Desencriptar: </storng></li>
    </ul>
    <h2>Tecnológias Utilizadas</h2>
