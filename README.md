@@ -10,8 +10,8 @@
       Este proyecto permite encriptar y desencriptar textos que tu quieras cifrar o descifrar según sea el caso.
    </p>
    <h2>Tecnológias Utilizadas</h2>
-   <list>
-     <p>HTML</p>
-     <p>CSS</p>
-     <p>JavaScript</p>
-   </list>
+   <ul>
+     <li>HTML</li>
+     <li>CSS</li>
+     <li>JavaScript</li>
+   </ul> 
