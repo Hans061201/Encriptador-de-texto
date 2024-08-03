@@ -21,7 +21,7 @@ Este proyecto fue creado para permitirle al usuario encriptar o desencriptar tex
 - **Desencriptar:**
   >Este botón permite descifrar la encriptación de un texto volviendolo legible para el lenguaje humano.
 
-##Instalación
+## Instalación
 
 
 ## Tecnologías Utilizadas
