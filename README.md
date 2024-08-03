@@ -5,7 +5,6 @@
    </p>
    
    <h2 > Introducción </h2>
-   <hr> 
    <p>
       Este proyecto fue creado para permitirle al usuario encriptar o desencriptar textos según sea el caso.
    </p>
