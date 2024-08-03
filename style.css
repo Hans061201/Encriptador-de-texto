@@ -278,10 +278,12 @@ body {
   }
   .texto__encriptado__contenido {
     width: auto;
+
     height: 40rem;
   }
   .texto__encriptado__texto {
-    width: auto;
+    width: 100%;
+    overflow: auto;
   }
   .encriptador__boton__3 {
     width: 100%;
