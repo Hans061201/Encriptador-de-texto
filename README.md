@@ -61,7 +61,7 @@ Sigue estos pasos para clonar y ejecutar el proyecto en tu máquina local:
  ```Navega al directorio del proyecto
    cd Encriptador-de-texto
 ```
-3. **Abrir el archivo **index.html****
+3. **Abrir el archivo `index.html`**
  ```bash
    start index.html
 ```
