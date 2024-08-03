@@ -8,7 +8,7 @@
    <p>
       Este proyecto fue creado para permitirle al usuario encriptar o desencriptar textos según sea el caso.
    </p>
-   ##Características Principales
+   ## Características Principales
    <h2>Tecnológias Utilizadas</h2>
    <ul>
      <li>HTML</li>
