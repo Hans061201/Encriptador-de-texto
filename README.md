@@ -1,7 +1,7 @@
 <h1 align="center"> Encriptador de Texto </h1>
   <p align="left">
    <img src="https://img.shields.io/badge/STATUS-%20CULMINADO-green">
-    [<img src= "https://img.shields.io/badge/R-%20CULMINADO-green"">](https://img.shields.io/badge/Realese_date-August-blue)
+  <img src="https://img.shields.io/badge/Realese_date-August-blue">
    </p>
    
    <h2 > Introducción </h2>
