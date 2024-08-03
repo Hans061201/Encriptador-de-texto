@@ -51,6 +51,9 @@ Este proyecto fue creado para permitirle al usuario encriptar o desencriptar tex
 
 ## 🔌 Instalación
 
+Sigue estos pasos para clonar y ejecutar el proyecto en tu máquina local:
+
+
 
 ## 🔨 Tecnologías Utilizadas
 
