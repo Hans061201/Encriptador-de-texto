@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/STATUS-%20CULMINADO-green">
-  <img src="https://img.shields.io/badge/Realease_date-August-blue">
+  <img src="https://img.shields.io/badge/Release_date-August-blue">
 </p>
 
 ## 💡 Introducción
