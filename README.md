@@ -7,7 +7,7 @@
    <h2 > Introducción </h2>
    <hr> 
    <p>
-      Este proyecto permite encriptar y desencriptar textos que tu quieras cifrar o descifrar según sea el caso.
+      Este proyecto fue creado para permitirle al usuario encriptar o desencriptar textos según sea el caso.
    </p>
    <h2>Tecnológias Utilizadas</h2>
    <ul>
