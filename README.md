@@ -23,9 +23,13 @@ Este proyecto fue creado para permitirle al usuario encriptar o desencriptar tex
 
 ## Requisitos
 
-- No debe de poder encriptar o desencriptar letrar **mayúsculas**.
+- No debe de poder encriptar o desencriptar letras **mayúsculas**.
 - No debén de poder encriptar o desencriptar caractéres especiales, leer tabla unicode (https://symbl.cc/es/unicode-table/).
 - El usuario debe poder encriptar una texto cualquiera y poder devolvero a su forma origial y viceversa si desencriptaría un texto.
+
+## Extras
+
+- Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del `ctrl+C` o de la opción "copiar" del menú de las aplicaciones.
 
 ## Instalación
 
