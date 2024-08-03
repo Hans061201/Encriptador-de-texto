@@ -11,8 +11,14 @@ Este proyecto fue creado para permitirle al usuario encriptar o desencriptar tex
 
 ## Características Principales
 
-- **Reservas de vuelos**
-- **Desencriptar**
+- **Encriptar:**
+  >Te permite que tu escribes o pegues un texto y cuando te presiones el botón encriptar veras tu texto encriptado según las siguientes reglas:
+  > - e = enter
+  > - i = imes
+  > - a = ai 
+  > - o = ober
+  > - u = ufat
+- **Desencriptar:**
 
 ## Tecnologías Utilizadas
 
