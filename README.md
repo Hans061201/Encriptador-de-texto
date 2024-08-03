@@ -1,6 +1,6 @@
 <h1 align="center"> Encriptador de Texto </h1>
   <p align="left">
-   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+   <img src="https://img.shields.io/badge/STATUS-%20CULMINADO-green">
    </p>
    <h2 > Introducción </h2>
    <hr> 
