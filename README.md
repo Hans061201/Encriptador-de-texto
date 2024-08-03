@@ -21,6 +21,12 @@ Este proyecto fue creado para permitirle al usuario encriptar o desencriptar tex
 - **Desencriptar:**
   >Este botón permite descifrar la encriptación de un texto volviendolo legible para el lenguaje humano.
 
+## Requisitos
+
+- No debe de poder encriptar o desencriptar letrar ** mayúsculas **.
+- No debén de poder encriptar o desencriptar caractéres especiales, leer tabla unicode (https://symbl.cc/es/unicode-table/).
+- El usuario debe poder encriptar una texto cualquiera y poder devolvero a su forma origial y viceversa si desencriptaría un texto.
+
 ## Instalación
 
 
