@@ -139,7 +139,7 @@ body {
   background-color: var(--primary-color);
   margin: 0;
   padding: 0.5rem;
-  height: 50%;
+  /* height: 100%; */
   width: 100%;
 }
 .footer__texto {
@@ -158,7 +158,6 @@ body {
   flex-direction: column;
   height: 52rem;
   width: 25rem;
-  max-width: 25rem;
   text-align: center;
   padding: 0 1.5rem;
   justify-content: flex-start;
@@ -176,6 +175,7 @@ body {
   justify-content: center;
   max-height: 47rem;
   height: 90%;
+  width: 100%;
   overflow: auto;
   border: none;
 }
@@ -256,8 +256,8 @@ body {
     padding: 1rem; /* Ajusté el padding */
     display: flex;
     justify-content: center;
-    height: auto;
-    position: relative;
+    height: 100%;
+    /* position: relative; */
   }
   .footer__texto {
     font-size: 0.8rem;
@@ -288,7 +288,7 @@ body {
   .encriptador__boton__3 {
     width: 100%;
     top: auto;
-    right: 3%;
+    right: auto;
   }
   .footer {
     width: 102%;
