@@ -24,8 +24,25 @@ Este proyecto fue creado para permitirle al usuario encriptar o desencriptar tex
 ## ✔️ Requisitos
 
 - No debe de poder encriptar o desencriptar letras **mayúsculas**.
-- No debén de poder encriptar o desencriptar caractéres especiales, leer tabla unicode (https://symbl.cc/es/unicode-table/).
+- No debén de poder encriptar o desencriptar caractéres especiales,  tabla unicode de caracteres especiales (https://symbl.cc/es/unicode-table/).
 - El usuario debe poder encriptar una texto cualquiera y poder devolvero a su forma origial y viceversa si desencriptaría un texto.
+  
+  ```
+  Ejemplo:
+  alura => ailufatrai
+  ailufatrai => alura
+  
+  Cuando quiera encriptar un texto que contengan alguna mayúscula le aparece lo siguiente:
+
+  Hola como Estan  =>  No introducir caracteres especiales o mayusculas, por favor.
+
+  Cuando quiera encriptar un texto que contengan algú caracter especial le aparece lo siguiente:
+  
+  hola como estan? => No introducir caracteres especiales o mayusculas, por favor.
+
+  Tendrá ese mismo resultado cuando presione el botón desencriptar.
+  ```
+
 
 ## 🎁Extras
 
