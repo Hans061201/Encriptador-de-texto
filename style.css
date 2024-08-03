@@ -287,7 +287,8 @@ body {
   }
   .encriptador__boton__3 {
     width: 100%;
-    position: static;
+    top: auto;
+    right: 3%;
   }
   .footer {
     width: 102%;
