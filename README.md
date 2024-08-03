@@ -12,13 +12,17 @@ Este proyecto fue creado para permitirle al usuario encriptar o desencriptar tex
 ## Características Principales
 
 - **Encriptar:**
-  >Te permite que tu escribes o pegues un texto y cuando te presiones el botón encriptar veras tu texto encriptado según las siguientes reglas:
+  > El botón encriptar realiza una encriptación al texto que este en el text área al momento de presionarlo, la reglas encriptación son:
   > - e = enter
   > - i = imes
   > - a = ai 
   > - o = ober
   > - u = ufat
 - **Desencriptar:**
+  >Este botón permite descifrar la encriptación de un texto volviendolo legible para el lenguaje humano.
+
+##Instalación
+
 
 ## Tecnologías Utilizadas
 
