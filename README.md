@@ -61,4 +61,6 @@ Sigue estos pasos para clonar y ejecutar el proyecto en tu máquina local:
 
 ## 🔨 Tecnologías Utilizadas
 
--Java
+-JavaScript
+-CSS
+-HTMl
